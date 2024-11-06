@@ -103,7 +103,15 @@ a:hover{
     text-align: center;
     
 }
+.p1{
+    font-family:"Montserrat", sans-serif;
+    font-size: 2rem;
+    
+    margin-bottom: 2rem;
+    margin-left: 3rem;
+    color: black;
 
+}
 
 
 .txtPagina2{
@@ -148,7 +156,6 @@ a:hover{
 .txtPrincipal2{
     font-family: "Lilita One", sans-serif;
     display: flex;
-    font-weight: 400;
     font-size: 4rem;
     margin-top: 3rem;
     color: black;
